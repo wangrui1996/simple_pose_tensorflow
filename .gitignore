@@ -1,0 +1,12 @@
+.idea/*
+.vcscode/*
+models/weights/*
+logs/*
+test_imgs/*
+*/__pycache__
+*/*/__pycache__
+
+models/logs/*
+*.tfrecords
+__pycache___
+.DS_Store
